@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"shutdown_equipment_button_0-d485e409":{"topics":[{"title":"关闭设备","shortdesc":"<p class=\"shortdesc\">课堂或会议结束后，关闭设备。<\/p>","href":"shutdown_equipment.html","attributes":{"data-id":"shutdown_equipment"},"menu":{"hasChildren":false},"tocID":"shutdown_equipment-d485e420","topics":[]}]}};
