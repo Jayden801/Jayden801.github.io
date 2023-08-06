@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="start_button_0" path="start_button_0.html"/>
+   <appContext helpID="start_computer_dita" path="start_computer_dita.html"/>
+   <appContext helpID="start_projector_button_1" path="start_projector_button_1.html"/>
+   <appContext helpID="start_projector_curtain" path="start_projector_curtain.html"/>
+   <appContext helpID="start_projector_screen" path="start_projector_screen.html"/>
+   <appContext helpID="start_microphone_button_1"
+               path="start_microphone_button_1.html"/>
+   <appContext helpID="start_microphone_handheld"
+               path="start_microphone_handheld.html"/>
+   <appContext helpID="start_microphone_placed" path="start_microphone_placed.html"/>
+   <appContext helpID="connecting_button_0" path="connecting_button_0.html"/>
+   <appContext helpID="connecting_public_equipment_button_1"
+               path="connecting_public_equipment_button_1.html"/>
+   <appContext helpID="connecting_public_equipment_u"
+               path="connecting_public_equipment_u.html"/>
+   <appContext helpID="connecting_public_equipment_wechat"
+               path="connecting_public_equipment_wechat.html"/>
+   <appContext helpID="connecting_personal_equipment_button_1"
+               path="connecting_personal_equipment_button_1.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_button_2"
+               path="connecting_personal_equipment_mac_button_2.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_usb_dita"
+               path="connecting_personal_equipment_mac_usb_dita.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_hdmi_dita"
+               path="connecting_personal_equipment_mac_hdmi_dita.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_vga"
+               path="connecting_personal_equipment_mac_vga.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_minidp"
+               path="connecting_personal_equipment_mac_minidp.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_wireless_button_3"
+               path="connecting_personal_equipment_mac_wireless_3.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_wireless_bluetooth"
+               path="connecting_personal_equipment_mac_wireless_bluetooth.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_wireless_wifi"
+               path="connecting_personal_equipment_mac_wireless_wifi.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_button_2"
+               path="connecting_personal_equipment_windows_button_2.html"/>
+   <appContext helpID="connecting_personal_equipment_windows_hdmi"
+               path="connecting_personal_equipment_windows_hdmi.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_wireless_3"
+               path="connecting_personal_equipment_windows_wireless_3.html"/>
+   <appContext helpID="connecting_personal_equipment_windows_wireless_display_adapter"
+               path="connecting_personal_equipment_windows_wireless_display_adapter.html"/>
+   <appContext helpID="connecting_personal_equipment_windows_wireless_wifi"
+               path="connecting_personal_equipment_windows_wireless_wifi.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_button_2"
+               path="connecting_personal_equipment_ios_button_2.html"/>
+   <appContext helpID="connecting_personal_equipment_ios_wireless"
+               path="connecting_personal_equipment_ios_wire.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_wireless_3"
+               path="connecting_personal_equipment_ios_wireless_button_3.html"/>
+   <appContext helpID="connecting_personal_equipment_ios_wire"
+               path="connecting_personal_equipment_ios_wireless.html"/>
+   <appContext helpID="connecting_personal_equipment_ios_wireless_hdmi"
+               path="connecting_personal_equipment_ios_wireless_hdmi.html"/>
+   <appContext helpID="connecting_personal_equipment_mac_button_2"
+               path="connecting_personal_equipment_android_button_2.html"/>
+   <appContext helpID="connecting_personal_equipment_android_wire_dita"
+               path="connecting_personal_equipment_android_wire_dita.html"/>
+   <appContext helpID="connecting_personal_equipment_android_wire_mhl_dita"
+               path="connecting_personal_equipment_android_wire_mhl_dita.html"/>
+   <appContext helpID="connecting_personal_equipment_android_wireless_dita"
+               path="connecting_personal_equipment_android_wireless_dita.html"/>
+   <appContext helpID="troubleshooting_button_0" path="troubleshooting_button_0.html"/>
+   <appContext helpID="troubleshooting_correction_dita"
+               path="troubleshooting_correction_dita.html"/>
+   <appContext helpID="troubleshooting_audio_dita"
+               path="troubleshooting_audio_dita.html"/>
+   <appContext helpID="troubleshooting_page_lag_dita"
+               path="troubleshooting_page_lag_dita.html"/>
+   <appContext helpID="troubleshooting_screen_black"
+               path="troubleshooting_screen_black.html"/>
+   <appContext helpID="troubleshooting_no_signal"
+               path="troubleshooting_no_signal.html"/>
+   <appContext helpID="trouble_ujs_g4x_gyb" path="troubleshooting_other.html"/>
+   <appContext helpID="shutdown_equipment_button_0"
+               path="shutdown_equipment_button_0.html"/>
+   <appContext helpID="shutdown_equipment" path="shutdown_equipment.html"/>
+   <appContext helpID="knowledge" path="knowledge.html"/>
+   <appContext helpID="concept_qpl_1qx_gyb" path="concept_hdmi.html"/>
+   <appContext helpID="concept_vga" path="concept_vga.html"/>
+   <appContext helpID="concept_mhl" path="concept_mhl.html"/>
+   <appContext helpID="concept_wireless_projection"
+               path="concept_wireless_projection.html"/>
+   <appContext helpID="concept_wireless_projection_hdmi"
+               path="concept_wireless_projection_hdmi.html"/>
+   <appContext helpID="concept_correction" path="concept_correction.html"/>
+</map>
